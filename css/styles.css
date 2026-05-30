@@ -1,0 +1,6 @@
+/* Arquivo legado — importa módulos CSS */
+@import url('base.css');
+@import url('layout.css');
+@import url('hero.css');
+@import url('components.css');
+@import url('responsive.css');
