@@ -1,7 +1,7 @@
 # Portfólio — Leonardo Longaray dos Santos
 
 Portfólio pessoal one-page em HTML, CSS e JavaScript puro.  
-**Cargo:** Coordenador de TI | Tech Leader
+**Atuação atual:** Desenvolvedor freelancer e profissional autônomo na **Aray Soluções**, com foco em desenvolvimento e infraestrutura.
 
 ## Estrutura
 
